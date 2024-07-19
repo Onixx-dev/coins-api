@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">vk_intern1</string>
+    <string name="convert_fragment">Convert (fragment)</string>
+    <string name="convert_activity">Convert (activity)</string>
+</resources>
