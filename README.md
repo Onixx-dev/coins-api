@@ -1,4 +1,4 @@
-# vk_intern1
+# coins api
 
 ## О проекте
 
